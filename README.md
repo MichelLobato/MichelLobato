@@ -9,7 +9,3 @@ Skills: JAVA / GO / ANGULAR / VUE.JS / AWS / HTML / CSS / SQL / AGILE
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/github.com/michellobato)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/michel-lobato-b42993134//)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=github.com/michellobato&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/github.com/michellobato)  
